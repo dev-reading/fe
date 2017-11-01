@@ -1,8 +1,9 @@
 # 前端热门文章阅读
 
-![](./assets/waves.gif)
+主播电台 ![](./assets/waves.gif)
 
-主播电台：[代码之声 - 网易云音乐](http://music.163.com/#/radio/?id=350628096&userid=71823138)
+- [代码之声 - 网易云音乐](http://music.163.com/#/radio/?id=350628096&userid=71823138)
+- [喜马拉雅 FM](http://www.ximalaya.com/53565210/album/11353231)
 
 ## 目录
 
