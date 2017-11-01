@@ -7,3 +7,4 @@
 ## 目录
 
 - [我希望在深入 React 之前知道这些](./articles/2017-11-01-i-wish-i-knew-these-before-diving-into-react.md)
+- [10 分钟学会 JavaScript 的 Async/Await](./articles/2017-11-01-javascript-async-await-explained.md)
