@@ -46,7 +46,7 @@
 
 ## 4、`componentWillReceiveProps` 的使用
 
-当**组件的 props 改变时需要更新 state**时使用这个方法。
+当**组件的 props 改变时需要更新 state** 时使用这个方法。
 
 注意：
 
