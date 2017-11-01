@@ -1,4 +1,4 @@
-3 分钟读完 [I wish I knew these before diving into React](https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488)
+1 分钟读完 [I wish I knew these before diving into React](https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488)
 
 # 我希望在深入 React 之前知道这些
 
