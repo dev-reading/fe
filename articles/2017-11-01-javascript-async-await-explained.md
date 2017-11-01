@@ -48,7 +48,7 @@ async function getABC() {
   // Promise.all() 允许同时执行所有的异步函数
   let results = await Promise.all([ getValueA, getValueB, getValueC ]); 
 
-  return results.reduce((total,value) => total * value);
+  return results.reduce((total, value) => total * value);
 }
 ```
 
