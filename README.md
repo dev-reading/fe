@@ -1,6 +1,6 @@
 # 前端热门文章阅读
 
-> [dev-reading/fe](https://github.com/dev-reading/fe) 是一个阅读、导读、速读的 repo，不要依赖于 [dev-reading/fe](https://github.com/dev-reading/fe) 学习知识。本 repo 只是一个快速了解文章的工具，并不提供全文解读和翻译。
+> [dev-reading/fe](https://github.com/dev-reading/fe) 是一个阅读、导读、速读的 repo，不要依赖于 [dev-reading/fe](https://github.com/dev-reading/fe) 学习知识。本 repo 只是一个快速了解文章内容的工具，并不提供全文解读和翻译。你可以通过本平台快速了解文章里面的内容，找到感兴趣的文章，然后去阅读全文。
 
 主播电台 ![](./assets/waves.gif)
 
