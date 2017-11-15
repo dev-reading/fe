@@ -10,7 +10,7 @@ CSS 的新属性 [overscroll-behavior](https://wicg.github.io/overscroll-behavio
 
 但是在 Web 页面中滚动并不会停止，而是**继续滚动抽屉后面的内容**。效果如下：
 
-<video src="../assets/drawer-scroll.mp4" autoplay="" loop="" alt="Drawer demo" height="300"></video>
+<img src="../assets/drawer-scroll.gif" autoplay="" loop="" alt="Drawer demo" height="300"></img>
 
 我们称这种行为叫滚动链接（**scroll chaining**）。
 
@@ -20,11 +20,11 @@ CSS 的新属性 [overscroll-behavior](https://wicg.github.io/overscroll-behavio
 
 Twitter PWA 版本的自定义下拉刷新：
 
-<video src="../assets/twitter.mp4" autoplay="" loop="" height="350"></video>
+<img src="../assets/twitter.gif" autoplay="" loop="" height="350"></img>
 
 Chrome Android 版的原生下拉刷新（刷新整个页面）：
 
-<video src="../assets/mobilep2r.mp4" autoplay="" loop="" height="350"></video>
+<img src="../assets/mobilep2r.gif" autoplay="" loop="" height="350"></img>
 
 很多时候我们需要**禁用原生的 pull-to-refresh 行为**。
 
@@ -46,17 +46,17 @@ Chrome Android 版的原生下拉刷新（刷新整个页面）：
 
 当一个 `fixed` 定位元素滚动到边界时，会滚动元素后面的内容。如下：
 
-<video src="../assets/chatbox-chaining.mp4" autoplay="" loop="" alt="Chatbox demo" height="350"></video>
+<img src="../assets/chatbox-chaining.gif" autoplay="" loop="" alt="Chatbox demo" height="350"></img>
 
 我们可以使用 `overscroll-behavior: contain` 阻止这种行为。
 
 如果我们有一个 `fixed` 定位的弹出层需要滚动时，默认是这样的，如下：
 
-<video src="../assets/modal-off.mp4" autoplay="" loop="" height="290"></video>
+<img src="../assets/modal-off.gif" autoplay="" loop="" height="290"></img>
 
 使用 `overscroll-behavior: contain` 可以阻止滚动传播给父元素，如下：
 
-<video src="../assets/modal-on.mp4" autoplay="" loop="" height="290"></video>
+<img src="../assets/modal-on.gif" autoplay="" loop="" height="290"></img>
 
 ## 禁用下拉刷新 pull-to-refresh
 
@@ -73,11 +73,11 @@ body {
 
 之前：
 
-<video src="../assets/chatbox-double-refresh.mp4" autoplay="" loop="" height="225"></video>
+<img src="../assets/chatbox-double-refresh.gif" autoplay="" loop="" height="225"></img>
 
 之后：
 
-<video src="../assets/chatbox-double-refresh-fix.mp4" autoplay="" loop="" height="225"></video>
+<img src="../assets/chatbox-double-refresh-fix.gif" autoplay="" loop="" height="225"></img>
 
 ## 禁用炫光和回弹效果
 
@@ -93,11 +93,11 @@ body {
 
 之前:
 
-<video src="../assets/drawer-glow.mp4" autoplay="" loop="" height="300"></video>
+<img src="../assets/drawer-glow.gif" autoplay="" loop="" height="300"></img>
 
 之后：
 
-<video src="../assets/drawer-noglow.mp4" autoplay="" loop="" height="300"></video>
+<img src="../assets/drawer-noglow.gif" autoplay="" loop="" height="300"></img>
 
 如果想禁用左右滑动的手势导航，可以使用 `overscroll-behavior-x: none`。
 
@@ -109,7 +109,7 @@ Demo 地址：https://ebidel.github.io/demos/chatbox.html
 
 最终效果：
 
-<video src="../assets/chatbox-fixed.mp4" autoplay="" loop="" alt="Chatbox demo" height="600"></video>
+<img src="../assets/chatbox-fixed.gif" autoplay="" loop="" alt="Chatbox demo" height="600"></img>
 
 -----------
 
