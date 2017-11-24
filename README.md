@@ -15,3 +15,8 @@
 - [提升 React 函数组件 45% 的性能](https://github.com/dev-reading/fe/issues/7)
 
 [更多...](https://github.com/dev-reading/fe/issues)
+
+## 交流
+
+- React技术交流1群(已满)
+- React技术交流2群 [450586076](https://jq.qq.com/?_wv=1027&k=5byxq2n)
