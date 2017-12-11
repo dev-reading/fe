@@ -77,6 +77,21 @@ async function foo() {
 }
 ```
 
+调用 `foo`，函数返回的 Promise **等待 1 秒**，然后 **fulfill with `"yay"`, or reject with `Error('Boo!')`**。
+
+## 4 Return-awaiting
+
+```javascript
+async function foo() {
+  try {
+    return await waitAndMaybeReject();
+  }
+  catch (e) {
+    return 'caught';
+  }
+}
+```
+
 调用 `foo`，函数返回的 Promise **等待 1 秒**，然后 **fulfill with `"yay"`, or fulfill with `"caught"`**。
 
 这个是最符合我们预期的写法。
