@@ -102,6 +102,6 @@ async function foo() {
 
 > 阅读原文：[await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 >
-> 讨论地址：[await、return 和 return await 的陷阱](https://github.com/dev-reading/fe/issues/9)
+> 讨论地址：[await、return 和 return await 的陷阱 #12](https://github.com/dev-reading/fe/issues/12)
 > 
 > 如果你想参与讨论，请[点击这里](https://github.com/dev-reading/fe)
